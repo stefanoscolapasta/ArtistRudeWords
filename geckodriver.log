@@ -1,0 +1,1174 @@
+1594572926484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofile6sDq1C"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594572928419	Marionette	INFO	Listening on port 50085
+1594572928491	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594572931268	Marionette	INFO	Stopped listening on port 50085
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594573017506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofilewFqXI1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594573019400	Marionette	INFO	Listening on port 50188
+1594573019518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594573979925	Marionette	INFO	Stopped listening on port 50188
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594573305047	Marionette	INFO	Listening on port 50521
+1594573305214	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594577558062	Marionette	INFO	Stopped listening on port 50521
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofiled9O4jx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594573489700	Marionette	INFO	Listening on port 60083
+1594573489927	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594575286272	Marionette	INFO	Stopped listening on port 60083
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594575283601	Marionette	INFO	Stopped listening on port 60201
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+"
+1594575284501	Marionette	INFO	Stopped listening on port 60370
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594573849963	Marionette	INFO	Listening on port 60545
+1594573850452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594575285452	Marionette	INFO	Stopped listening on port 60545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594573959406	Marionette	INFO	Listening on port 60751
+1594573959496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594575289716	Marionette	INFO	Stopped listening on port 60751
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594573998078	Marionette	INFO	Listening on port 60865
+1594573998151	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594575288062	Marionette	INFO	Stopped listening on port 60865
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ https://static.adsafeprotected.com/sca.17.4.114.js, line 33: Script terminated by timeout at:
+a93/a167<@https://static.adsafeprotected.com/sca.17.4.114.js:33:20
+a12@https://static.adsafeprotected.com/sca.17.4.114.js:31:21904
+run@https://static.adsafeprotected.com/sca.17.4.114.js:33:24638
+a155@https://static.adsafeprotected.com/sca.17.4.114.js:34:448
+w@https://static.adsafeprotected.com/sca.17.4.114.js:31:21001
+
+[Child 7460, MediaDecoderStateMachine #1] WARNING: Decoder=1e3afa9f000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 7460, MediaDecoderStateMachine #1] WARNING: Decoder=1e3afa9f000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSa1594577325402	Marionette	INFO	Stopped listening on port 61201
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+- RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 7460, MediaDecoderStateMachine #1] WARNING: Decoder=1e3afa9f000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+JavaScript warning: https://www.youtube.com/yts/jsbin/webcomponents-sd-vfll5iksz/webcomponents-sd.js, line 34: Script terminated by timeout at:
+get@https://www.youtube.com/yts/jsbin/webcomponents-sd-vfll5iksz/webcomponents-sd.js:34:103
+get target@https://www.youtube.com/yts/jsbin/webcomponents-sd-vfll5iksz/webcomponents-sd.js:41:350
+g.k.EN@https://www.youtube.com/s/player/3662280c/player_ias.vflset/it_IT/annotations_module.js:203:31
+Io/<@https://www.youtube.com/s/player/3662280c/player_ias.vflset/it_IT/base.js:992:63
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1594587191585	Marionette	INFO	Stopped listening on port 60988
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofileyg9byD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594574409287	Marionette	INFO	Listening on port 61683
+1594574409389	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594575152359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofile9r1H1O"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594575154382	Marionette	INFO	Listening on port 61921
+1594575154481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594576002754	Marionette	INFO	Stopped listening on port 61921
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rrors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594575278124	Marionette	INFO	Stopped listening on port 62112
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594575632649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofileRJC9Im"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594575634583	Marionette	INFO	Listening on port 62393
+1594575634657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594576384205	Marionette	INFO	Stopped listening on port 62393
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594575835919	Marionette	INFO	Listening on port 62589
+1594575835926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594576385308	Marionette	INFO	Stopped listening on port 62589
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594575893714	Marionette	INFO	Listening on port 62698
+1594575893730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594575900963	Marionette	INFO	Stopped listening on port 62698
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594576053722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofilezjN8lS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594576055744	Marionette	INFO	Listening on port 62841
+1594576055830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594576386248	Marionette	INFO	Stopped listening on port 62841
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: c1594576387381	Marionette	INFO	Stopped listening on port 62952
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594576146218	Marionette	INFO	Listening on port 63068
+1594576146503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594576387988	Marionette	INFO	Stopped listening on port 63068
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594576214242	Marionette	INFO	Listening on port 63191
+1594576214644	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594576388587	Marionette	INFO	Stopped listening on port 63191
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594576260479	Marionette	INFO	Listening on port 63301
+1594576260751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594576389529	Marionette	INFO	Stopped listening on port 63301
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594576365087	Marionette	INFO	Listening on port 63443
+1594576365299	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594576391280	Marionette	INFO	Stopped listening on port 63443
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594576557816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofilewBNy0Y"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594576559825	Marionette	INFO	Listening on port 63632
+1594576559928	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594577400701	Marionette	INFO	Stopped listening on port 63632
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594576593644	Marionette	INFO	Listening on port 63746
+1594576593681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594577689571	Marionette	INFO	Stopped listening on port 63746
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594576653358	Marionette	INFO	Listening on port 63858
+1594576653740	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594576701137	Marionette	INFO	Stopped listening on port 63858
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594576716733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofileD5Z4YR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594576718910	Marionette	INFO	Listening on port 63974
+1594576719348	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594576743295	Marionette	INFO	Stopped listening on port 63974
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594576856084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofileOtLYDi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594576858347	Marionette	INFO	Listening on port 64133
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+1594576858789	Marionette	INFO	Stopped listening on port 64133
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594576870067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofilenIww9L"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594576872240	Marionette	INFO	Listening on port 64169
+1594576872678	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://adv.mediamond.it/hp_sponsor/utility_mediamond.js, line 24: unreachable code after return statement
+JavaScript warning: https://adv.mediamond.it/hp_sponsor/utility_mediamond.js, line 24: unreachable code after return statement
+JavaScript warning: http://btg.mtvnservices.com/aria/coda.html?site=gpt.mtv.it&stage=1, line 828: Script terminated by timeout at:
+init/<@http://btg.mtvnservices.com/aria/coda.html?site=gpt.mtv.it&stage=1:828:482
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://imasdk.googleapis.com/formats/outstream/versioned/prod2/outstream_web_client_20200708_RC00/outstream.min.js, line 435: SecurityError: The operation is insecure.
+1594577677032	Marionette	INFO	Stopped listening on port 64169
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594577372762	Marionette	INFO	Listening on port 64713
+1594577373086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594577399962	Marionette	INFO	Stopped listening on port 64713
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594577400942	Marionette	INFO	Listening on port 64834
+1594577401175	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594577556422	Marionette	INFO	Stopped listening on port 64834
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+77523694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594577556372	Marionette	INFO	Stopped listening on port 65090
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594577563851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofile0bpPyM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594577566047	Marionette	INFO	Listening on port 65201
+1594577566460	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.c4b33f07650267db9f8a72eaac551cac.html?origin=https%3A%2F%2Fletslearnabout.net, line 12: Error: Network error.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript warning: https://www.adesso-online.de/sites/adesso.spotlight-verlag.de/files/js/optimized/js_OtMjuF2kPy5Rr6spfAoEC8RERLY_E-6bRN7_mq-9mBE.1RyBuREFNVYZOEA-TK4kG0d6xcfrA5TTIEI-D3dU-8I.js?v=8.5.1, line 2: unreachable code after return statement
+JavaScript warning: https://www.adesso-online.de/sites/adesso.spotlight-verlag.de/files/js/optimized/js_RKnllkIVoU3rBZinRPRTyGt7RXNFtVXwiJAjRpvKj5Y.2W8RRVXYzkI0IIJ5Jv50gHBRgS5ShjvN1UCdxj0UkAw.js?v=8.5.1, line 212: unreachable code after return statement
+JavaScript warning: https://it.wikipedia.org/w/load.php?lang=it&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.dismissableSiteNotice%2CeventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-router%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cskins.vector.legacy.js%7Cuser.defaults&skin=vector&version=1nq7s, line 181: Script terminated by timeout at:
+camelCase@https://it.wikipedia.org/w/load.php?lang=it&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.dismissableSiteNotice%2CeventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-router%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cskins.vector.legacy.js%7Cuser.defaults&skin=vector&version=1nq7s:181:694
+get@https://it.wikipedia.org/w/load.php?lang=it&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.dismissableSiteNotice%2CeventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-router%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cskins.vector.legacy.js%7Cuser.defaults&skin=vector&version=1nq7s:182:475
+trigger@https://it.wikipedia.org/w/load.php?lang=it&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.dismissableSiteNotice%2CeventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-router%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cskins.vector.legacy.js%7Cuser.defaults&skin=vector&version=1nq7s:243:515
+simulate@https://it.wikipedia.org/w/load.php?lang=it&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1594587190823	Marionette	INFO	Stopped listening on port 59274
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.dismissableSiteNotice%2CeventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-router%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cskins.vector.legacy.js%7Cuser.defaults&skin=vector&version=1nq7s:244:843
+
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914, line 6: Script terminated by timeout at:
+ib@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:6370
+Hf/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:43473
+Df/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:42673
+Cf@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:42566
+Df@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:42654
+Hf@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:43441
+l.Wa@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:46535
+uf@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:40683
+xg@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:54136
+ug.prototype.tb@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:53905
+Ge/a.a<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:32803
+Pd/</<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25582
+Md/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25124
+ud/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:22436
+Md@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25432
+Pd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:25555
+ud/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:22436
+ud/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:22481
+
+JavaScript warning: https://www.parolacce.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp, line 3: Script terminated by timeout at:
+trigger@https://www.parolacce.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:3:11362
+a.event.trigger@https://www.parolacce.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1:2:8275
+simulate@https://www.parolacce.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:3:14908
+c@https://www.parolacce.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp:3:18018
+
+1594587186231	Marionette	INFO	Stopped listening on port 65201
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tening on port 59940
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594578883066	Marionette	INFO	Listening on port 60050
+1594578883212	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+1594584268005	Marionette	INFO	Stopped listening on port 60050
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594580996226	Marionette	INFO	Listening on port 60461
+1594580996321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2164: TypeError: event.target.closest is not a function
+1594581036861	Marionette	INFO	Stopped listening on port 60461
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594581040868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofilecTloCv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594581042857	Marionette	INFO	Listening on port 60578
+1594581042881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594581047351	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1594584834028	Marionette	INFO	Stopped listening on port 60578
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594581206060	Marionette	INFO	Listening on port 60793
+1594581206185	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594581464374	Marionette	INFO	Stopped listening on port 60793
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594581497204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofileIUiyQt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594581499263	Marionette	INFO	Listening on port 60930
+1594581499316	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594581567431	Marionette	INFO	Stopped listening on port 60930
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594581571527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofile07Io58"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594581573526	Marionette	INFO	Listening on port 61084
+1594581573537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594587188998	Marionette	INFO	Stopped listening on port 61084
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594581768216	Marionette	INFO	Listening on port 61229
+1594581768260	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594584831458	Marionette	INFO	Stopped listening on port 61229
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594582075492	Marionette	INFO	Listening on port 61430
+1594582075982	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating fJavaScript 1594582166289	Marionette	INFO	Stopped listening on port 61430
+
+###!!! [Child][MessageChan1594582167316	Marionette	INFO	Listening on port 61558
+1594582167524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594587189758	Marionette	INFO	Stopped listening on port 61558
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594582304829	Marionette	INFO	Listening on port 61697
+1594582304884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594582602362	Marionette	INFO	Stopped listening on port 61697
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+esource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594582601510	Marionette	INFO	Stopped listening on port 61825
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594582607018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofileeBgmBY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594582609114	Marionette	INFO	Listening on port 61976
+1594582609133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594584266015	Marionette	INFO	Stopped listening on port 61976
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594584265375	Marionette	INFO	Stopped listening on port 62102
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+esource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+[Child 32144, MediaDecoderStateMachine #1] WARNING: Decoder=1f382957400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 32144, MediaDecoderStateMachine #1] WARNING: Decoder=1f382957400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 32144, MediaDecoderStateMachine #1] WARNING: Decoder=1f382957400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 32144, MediaDecoderStateMachine #1] WARNING: Decoder=1f382957400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 32144, MediaDecoderStateMachine #1] WARNING: Decoder=1f382957400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+JavaScript warning: https://www.youtube.com/s/desktop/616af895/jsbin/webcomponents-sd.vflset/webcomponents-sd.js, line 34: Script terminated by timeout at:
+get@https://www.youtube.com/s/desktop/616af895/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:34:103
+get target@https://www.youtube.com/s/desktop/616af895/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:41:350
+g.k.EN@https://www.youtube.com/s/player/3662280c/player_ias.vflset/it_IT/annotations_module.js:203:31
+Io/<@https://www.youtube.com/s/player/3662280c/player_ias.vflset/it_IT/base.js:992:63
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.it.5aS1M8dQA0I.O/ck=xjs.s.v_tFnWdCrgk.L.F4.O/am=AAAAgAAAAIAlYO4GAOc_CABwQYkDAAAAEKAlwcYCKQQJCQEIAAAwCxMAAAI/d=1/exm=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe/ed=1/dg=2/ct=zgms/rs=ACT90oFRiSDyPzIXL82-8rTeB26p_H7TBQ/m=MB3mMb,MkHyGd,NBZ7u,OG6ZHd,RMhBfe,RqxLvf,T7XTS,TxZWcc,URQPYc,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,foot,iD8Yk,kVbfxd,kyn,lu,m,m6a0l,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,tl,uiNkee,vs,xiqEse,xz7cCd,yyqeUd,zbML3c?xjs=s1, line 288: Script terminated by timeout at:
+s_r6f@https://www.google.com/xjs/_/js/k=xjs.s.it.5aS1M8dQA0I.O/ck=xjs.s.v_tFnWdCrgk.L.F4.O/am=AAAAgAAAAIAlYO4GAOc_CABwQYkDAAAAEKAlwcYCKQQJCQEIAAAwCxMAAAI/d=1/exm=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe/ed=1/dg=2/ct=zgms/rs=ACT90oFRiSDyPzIXL82-8rTeB26p_H7TBQ/m=MB3mMb,MkHyGd,NBZ7u,OG6ZHd,RMhBfe,RqxLvf,T7XTS,TxZWcc,URQPYc,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,foot,iD8Yk,kVbfxd,kyn,lu,m,m6a0l,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,tl,uiNkee,vs,xiqEse,xz7cCd,yyqeUd,zbML3c?xjs=s1:288:136
+s_p6f.prototype.Ua@https://www.google.com/xjs/_/js/k=xjs.s.it.5aS1M8dQA0I.O/ck=xjs.s.v_tFnWdCrgk.L.F4.O/am=AAAAgAAAAIAlYO4GAOc_CABwQYkDAAAAEKAlwcYCKQQJCQEIAAAwCxMAAAI/d=1/exm=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe/ed=1/dg=2/ct=zgms/rs=ACT90oFRiSDyPzIXL82-8rTeB26p_H7TBQ/m=MB3mMb,MkHyGd,NBZ7u,OG6ZHd,RMhBfe,RqxLvf,T7XTS,TxZWcc,URQPYc,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,foot,iD8Yk,kVbfxd,kyn,lu,m,m6a0l,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,tl,uiNkee,vs,xiqEse,xz7cCd,yyqeUd,zbML3c?xjs=s1:289:305
+s_.Q9@https://www.google.com/xjs/_/js/k=xjs.s.it.5aS1M8dQA0I.O/ck=xjs.s.v_tFnWdCrgk.L.F4.O/m=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,d,csi/am=AAAAgAAAAIAlYO4GAOc_CABwQYkDAAAAEKAlwcYCKQQJCQEIAAAwCxMAAAI/d=1/dg=2/ct=zgms/rs=ACT90oFRiSDyPzIXL82-8rTeB26p_H7TBQ:414:209
+s_.dispatchEvent@https://www.google.com/xjs/_/js/k=xjs.s.it.5aS1M8dQA0I.O/ck=xjs.s.v_tFnWdCrgk.L.F4.O/m=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,d,csi/am=AAAAgAAAAIAlYO4GAOc_CABwQYkDAAAAEKAlwcYCKQQJCQEIAAAwCxMAAAI/d=1/dg=2/ct=zgms/rs=ACT90oFRiSDyPzIXL82-8rTeB26p_H7TBQ:412:384
+s_gS.prototype.Ba@https://www.google.com/xjs/_/js/k=xjs.s.it.5aS1M8dQA0I.O/ck=xjs.s.v_tFnWdCrgk.L.F4.O/am=AAAAgAAAAIAlYO4GAOc_CABwQYkDAAAAEKAlwcYCKQQJCQEIAAAwCxMAAAI/d=1/exm=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe/ed=1/dg=2/ct=zgms/rs=ACT90oFRiSDyPzIXL82-8rTeB26p_H7TBQ/m=MB3mMb,MkHyGd,NBZ7u,OG6ZHd,RMhBfe,RqxLvf,T7XTS,TxZWcc,URQPYc,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,foot,iD8Yk,kVbfxd,kyn,lu,m,m6a0l,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,tl,uiNkee,vs,xiqEse,xz7cCd,yyqeUd,zbML3c?xjs=s1:273:221
+s_Uha@https://www.google.com/xjs/_/js/k=xjs.s.it.5aS1M8dQA0I.O/ck=xjs.s.v_tFnWdCrgk.L.F4.O/m=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,d,csi/am=AAAAgAAAAIAlYO4GAOc_CABwQYkDAAAAEKAlwcYCKQQJCQEIAAAwCxMAAAI/d=1/dg=2/ct=zgms/rs=ACT90oFRiSDyPzIXL82-8rTeB26p_H7TBQ:274:243
+s_Sha@https://www.google.com/xjs/_/js/k=xjs.s.it.5aS1M8dQA0I.O/ck=xjs.s.v_tFnWdCrgk.L.F4.O/m=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,d,csi/am=AAAAgAAAAIAlYO4GAOc_CABwQYkDAAAAEKAlwcYCKQQJCQEIAAAwCxMAAAI/d=1/dg=2/ct=zgms/rs=ACT90oFRiSDyPzIXL82-8rTeB26p_H7TBQ:275:249
+s_Qha/b<@https://www.google.com/xjs/_/js/k=xjs.s.it.5aS1M8dQA0I.O/ck=xjs.s.v_tFnWdCrgk.L.F4.O/m=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,d,csi/am=AAAAgAAAAIAlYO4GAOc_CABwQYkDAAAAEKAlwcYCKQQJCQEIAAAwCxMAAAI/d=1/dg=2/ct=zgms/rs=ACT90oFRiSDyPzIXL82-8rTeB26p_H7TBQ:271:277
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://www.youtube.com/s/desktop/616af895/jsbin/webcomponents-hi-sd.vflset/webcomponents-hi-sd.js, line 96: Script terminated by timeout at:
+get shadowRoot@https://www.youtube.com/s/desktop/616af895/jsbin/webcomponents-hi-sd.vflset/webcomponents-hi-sd.js:96:497
+get assignedSlot@https://www.youtube.com/s/desktop/616af895/jsbin/webcomponents-hi-sd.vflset/webcomponents-hi-sd.js:89:548
+qb@https://www.youtube.com/s/desktop/616af895/jsbin/webcomponents-hi-sd.vflset/webcomponents-hi-sd.js:62:56
+composedPath@https://www.youtube.com/s/desktop/616af895/jsbin/webcomponents-hi-sd.vflset/webcomponents-hi-sd.js:71:276
+xb@https://www.youtube.com/s/desktop/616af895/jsbin/webcomponents-hi-sd.vflset/webcomponents-hi-sd.js:64:24
+Db/<@https://www.youtube.com/s/desktop/616af895/jsbin/webcomponents-hi-sd.vflset/webcomponents-hi-sd.js:70:103
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594584525507	Marionette	INFO	Stopped listening on port 62244
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594583535010	Marionette	INFO	Listening on port 62592
+1594583535181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594583758485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofileiCJy7J"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594583761194	Marionette	INFO	Listening on port 62739
+1594583761598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2164: TypeError: event.target.closest is not a function
+1594584264363	Marionette	INFO	Stopped listening on port 62739
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594632257819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofileqqOjD6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594632259868	Marionette	INFO	Listening on port 58837
+1594632259928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594633908485	Marionette	INFO	Stopped listening on port 58837
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+esource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594633652705	Marionette	INFO	Stopped listening on port 59351
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594635653155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofilemCi9XB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+1594635654958	Marionette	INFO	Listening on port 64136
+1594635655164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594635655217	Marionette	ERROR	[10] No reply from Marionette:Register
+1594635655408	Marionette	INFO	Stopped listening on port 64136
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594635890016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofilelvyxZx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594635891863	Marionette	INFO	Listening on port 64399
+1594635892023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594636407513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofile785B8E"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594636409315	Marionette	INFO	Listening on port 64738
+1594636409522	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594645124978	Marionette	INFO	Stopped listening on port 64738
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594636471726	Marionette	INFO	Listening on port 64884
+1594636471821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594645122586	Marionette	INFO	Stopped listening on port 64884
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofileOHCvfJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594636640476	Marionette	INFO	Listening on port 65096
+1594636640534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1594645125005	Marionette	INFO	Stopped listening on port 65096
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+fileHhBR9e"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594636883318	Marionette	INFO	Listening on port 65344
+1594636883770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594645124438	Marionette	INFO	Stopped listening on port 65344
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+esource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594637021029	Marionette	INFO	Stopped listening on port 49198
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594637522520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofileNwUbG9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594637524404	Marionette	INFO	Listening on port 49720
+1594637524528	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594645123950	Marionette	INFO	Stopped listening on port 49720
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofiledDEWoh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594637582588	Marionette	INFO	Listening on port 49870
+1594637582686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2164: TypeError: event.target.closest is not a function
+1594637607378	Marionette	INFO	Stopped listening on port 49870
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594637611205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofiletVz4Hr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594637613155	Marionette	INFO	Listening on port 49979
+1594637613219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js, line 26: Script terminated by timeout at:
+e@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:26:1
+Ra@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:540:13
+this.getConsentDataRequest@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:554:272
+j/</e<@https://assets.genius.com/javascripts/compiled/cmp-8b13694136224d395730.js:1:13200
+
+1594645123470	Marionette	INFO	Stopped listening on port 49979
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\Stefano\\AppData\\Local\\Temp\\rust_mozprofileeLN7P5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594637832880	Marionette	INFO	Listening on port 50152
+1594637832890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594637852116	Marionette	INFO	Stopped listening on port 50152
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594637989238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofilexG3pL3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594637991212	Marionette	INFO	Listening on port 50274
+1594637991252	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594638018871	Marionette	INFO	Stopped listening on port 50274
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594638415048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofileixO1Il"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594638417239	Marionette	INFO	Listening on port 50541
+1594638417668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594638497360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofileUFzgfC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594638499617	Marionette	INFO	Listening on port 50662
+1594638499972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594638521170	Marionette	INFO	Stopped listening on port 50662
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594638533573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofileLSlTiS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594638535836	Marionette	INFO	Listening on port 50792
+1594638536189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594645122578	Marionette	INFO	Stopped listening on port 50792
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+38692864	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594645123663	Marionette	INFO	Stopped listening on port 50912
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594639112523	Marionette	INFO	Stopped listening on port 51046
+
+###!!! [Child][RunMessage] Error: Channel clos1594645121688	Marionette	INFO	Stopped listening on port 51183
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofileyn9CMs"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594639296439	Marionette	INFO	Listening on port 51363
+1594639296775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594645121525	Marionette	INFO	Stopped listening on port 51363
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594639433940	Marionette	INFO	Listening on port 51550
+1594639434329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594645120510	Marionette	INFO	Stopped listening on port 51550
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594639573141	Marionette	INFO	Listening on port 51738
+1594639573399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js, line 4: Script terminated by timeout at:
+K/<@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:4:83
+K@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:4:10
+encodeConsentString@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:8:296
+value@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:27:229
+Ra@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:540:485
+this.getConsentDataRequest@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:554:272
+j/</e<@https://assets.genius.com/javascripts/compiled/cmp-8b13694136224d395730.js:1:13200
+
+JavaScript warning: https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js, line 26: Script terminated by timeout at:
+e@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:26:1
+Ra@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:540:13
+this.getVendorConsentsRequest@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:553:236
+j/</e<@https://assets.genius.com/javascripts/compiled/cmp-8b13694136224d395730.js:1:13200
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594645119831	Marionette	INFO	Stopped listening on port 51738
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+esource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://static.h-bid.com/prebid/latest/prebid.js, line 25: TypeError: n is undefined
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=1&gdpr_consent=BO2esMHO2esMHDlDLAENDS-AAAAxKAAA&us_privacy=1---, line 12: SecurityError: The operation is insecure.
+1594645118816	Marionette	INFO	Stopped listening on port 52020
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+urce.", ""))
+1594643198656	Marionette	INFO	Listening on port 52357
+1594643198800	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20344, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1594643199567	Marionette	INFO	Stopped listening on port 52357
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594643230441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofileTVUTIB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594643234188	Marionette	INFO	Listening on port 52496
+1594643234559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js, line 12: Script terminated by timeout at:
+ka@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:12:67
+Y/<@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:11:431
+Y@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:11:401
+ka/<@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:12:97
+ka@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:12:67
+ua@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:14:394
+encodeToBase64@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:19:80
+encodeConsentString@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:8:305
+value@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:27:229
+Ra@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:540:485
+this.getVendorConsentsRequest@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:553:236
+j/</e<@https://assets.genius.com/javascripts/compiled/cmp-8b13694136224d395730.js:1:13200
+
+1594645117886	Marionette	INFO	Stopped listening on port 52496
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594643641408	Marionette	INFO	Listening on port 52774
+1594643641591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js, line 4: Script terminated by timeout at:
+K/<@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:4:118
+K@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:4:10
+encodeConsentString@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:8:296
+value@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:27:229
+Ra@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:540:485
+this.getVendorConsentsRequest@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:553:236
+j/</e<@https://assets.genius.com/javascripts/compiled/cmp-8b13694136224d395730.js:1:13200
+
+1594645117502	Marionette	INFO	Stopped listening on port 52774
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594643782448	Marionette	INFO	Listening on port 52980
+1594643782686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594643786726	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js, line 23: Script terminated by timeout at:
+mb/<@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:23:278
+mb@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:23:254
+Ra@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:22:347697
+this.getConsentDataRequest@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:23:7084
+j/</e<@https://assets.genius.com/javascripts/compiled/cmp-8b13694136224d395730.js:1:13200
+
+1594645117060	Marionette	INFO	Stopped listening on port 52980
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594644017571	Marionette	INFO	Listening on port 53166
+1594644018034	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594644070464	Marionette	INFO	Stopped listening on port 53166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594644078253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofileaRxbdZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594644081853	Marionette	INFO	Listening on port 53325
+1594644081962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594645116567	Marionette	INFO	Stopped listening on port 53325
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js, line 4: Script terminated by timeout at:
+K/<@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:4:54
+K@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:4:10
+encodeConsentString@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:8:296
+value@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:27:229
+Ra@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:540:485
+this.getConsentDataRequest@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:554:272
+j/</e<@https://assets.genius.com/javascripts/compiled/cmp-8b13694136224d395730.js:1:13200
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594645116127	Marionette	INFO	Stopped listening on port 53514
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	Listening on port 53698
+1594644323032	Marionette	INFO	Stopped listening on port 53698
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594644371532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Stefano\\AppData\\Local\\Temp\\rust_mozprofile5dxRHn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594644375096	Marionette	INFO	Listening on port 53737
+1594644375190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594644379871	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js, line 541: Script terminated by timeout at:
+lb@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:541:125
+Ra@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:540:457
+this.getConsentDataRequest@https://cdn.cookielaw.org/consent/6f0fd677-f230-419d-b02c-9f05ec24d682.js:554:272
+j/</e<@https://assets.genius.com/javascripts/compiled/cmp-8b13694136224d395730.js:1:13200
+
+1594645114924	Marionette	INFO	Stopped listening on port 53737
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594644521555	Marionette	INFO	Listening on port 53919
+1594644521904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594644526487	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594644601971	Marionette	INFO	Stopped listening on port 53919
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, message1594644602169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594644606852	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: pinning/pins sync interrupted by shutdown
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+1594645112936	Marionette	INFO	Stopped listening on port 54047
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
