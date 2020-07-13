@@ -122,7 +122,7 @@ def main():
     domande = [
         inquirer.List('artista',
                       message="Select artist to search: ",
-                      choices=['6ix9ine','Eminem','Anna', 'Yung-lean','Fsk-satellite', 'Dark-polo-gang', 'Gallagher', 'Salmo'],
+                      choices=['6ix9ine','Eminem','Ski-and-wok','Fabrizio-de-andre','Anna', 'Yung-lean','Fsk-satellite', 'Dark-polo-gang', 'Gallagher', 'Salmo'],
                       carousel=True #ruota arrivato in fondo
                       ),
     ]
