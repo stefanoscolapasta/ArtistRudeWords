@@ -112,7 +112,7 @@ def main():
                       ),
     ]
     seleziona_artista = inquirer.prompt(domande)
-    print(seleziona_artista["size"])
+    print(seleziona_artista["artista"])
 
 
     link_pezzi = prendi_link_tutte_canzoni(seleziona_artista)
