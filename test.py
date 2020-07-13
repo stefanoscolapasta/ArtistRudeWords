@@ -62,10 +62,15 @@ def scarica_tutti_testi(link_pezzi, numero_pezzi):
     return testo_completo
 
 
-def apri_lista_parolacce():
-    with open('assets//Parolacce', 'r') as f:
-        lista_parolacce = [line.strip() for line in f]
-    return lista_parolacce
+def apri_lista_parolacce(seleziona_lingua):
+    if seleziona_lingua == 'Italian':
+        with open('assets//Parolacce', 'r') as f:
+            lista_parolacce = [line.strip() for line in f]
+        return lista_parolacce
+    if seleziona_lingua == 'English':
+        with open('assets//swear-words', 'r') as f:
+            rude_words_list = [line.strip() for line in f]
+        return rude_words_list
 
 
 def ricerca_ricorrenze_parolacce(testo_completo, lista_parolacce, ricorrenze_parolacce):
@@ -112,20 +117,31 @@ def main():
     #SE USATO DA COMMAND LINE USA QUESTO
     domande = [
         inquirer.List('artista',
-                      message="Seleziona artista da ricercare: ",
-                      choices=['Fsk-satellite', 'Dark-polo-gang', 'Gallagher', 'Salmo'],
+                      message="Select artist to search: ",
+                      choices=['Anna', 'Yung-lean','Fsk-satellite', 'Dark-polo-gang', 'Gallagher', 'Salmo'],
                       carousel=True #ruota arrivato in fondo
                       ),
     ]
     seleziona_artista = inquirer.prompt(domande)
-    seleziona_artista = str(seleziona_artista)[13:-2]
-    print(f'Artista selezionato: {seleziona_artista}')
+    seleziona_artista = str(seleziona_artista)[13:-2] #I strip extra data
+    print(f'Selected artist: {seleziona_artista}')
+
+    domande = [
+        inquirer.List('language',
+                      message="Select artist's main language: ",
+                      choices=['Italian', 'English'],
+                      carousel=True  # ruota arrivato in fondo
+                      ),
+    ]
+    seleziona_lingua = inquirer.prompt(domande)
+    seleziona_lingua = str(seleziona_lingua)[14:-2]
+    print(seleziona_lingua)
 
     link_pezzi = prendi_link_tutte_canzoni(seleziona_artista)
     numero_pezzi = len(link_pezzi) #Per un loading dinamico
 
     testo_completo = scarica_tutti_testi(link_pezzi, numero_pezzi)
-    lista_parolacce = apri_lista_parolacce()
+    lista_parolacce = apri_lista_parolacce(seleziona_lingua)
     # inizializzo un dizionario con tutte le parolacce e la frequenza a 0
     ricorrenze_parolacce = dict.fromkeys(lista_parolacce, 0)
 

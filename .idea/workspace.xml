@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24c8c821-fbcf-40dd-99b7-68de0acf6253" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/swear-words" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
@@ -115,10 +116,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="719" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594584379484">
+    <state x="719" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594650378861">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="719" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594584379484" />
+    <state x="719" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594650378861" />
     <state x="260" y="279" key="FileChooserDialogImpl" timestamp="1594644708484">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
