@@ -3,9 +3,7 @@ from selenium.webdriver.common.keys import Keys
 import requests, time, inquirer, matplotlib
 from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt
-import numpy as np
 
-num = 0
 
 def prendi_link_tutte_canzoni(seleziona_artista):
     xpath_lista_canzoni = '/html/body/routable-page/ng-outlet/routable-profile-page/ng-outlet/routed-page/profile-page/div[3]/div[2]/artist-songs-and-albums/div[3]'
