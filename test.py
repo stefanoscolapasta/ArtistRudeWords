@@ -27,7 +27,7 @@ def prendi_link_tutte_canzoni(seleziona_artista):
             break
         last_height = new_height
 
-    print('DEBUG: SCROLLING FINITO')
+    print('DEBUG: SCROLLING FINISHED')
 
     link_pezzi = []
     lista_xpath = '/html/body/div[7]/div[1]'
@@ -37,7 +37,7 @@ def prendi_link_tutte_canzoni(seleziona_artista):
         if seleziona_artista.lower() in str(elem.get_attribute('href')).lower():
             link_pezzi.append(elem.get_attribute("href"))
 
-    print('DEBUG: LINK RACCOLTI')
+    print('DEBUG: LINKS COLLECTED')
     browser.close()
     browser.quit()
     return link_pezzi
@@ -48,7 +48,7 @@ def scarica_tutti_testi(link_pezzi, numero_pezzi):
     counter = 0
     for link in link_pezzi:
         counter += 1
-        print(f'{counter}/{numero_pezzi} pezzi analizzati', end='\r')
+        print(f'{counter}/{numero_pezzi} songs analyzed', end='\r')
         try:
             result = requests.get(link)
             src = result.content
@@ -56,9 +56,9 @@ def scarica_tutti_testi(link_pezzi, numero_pezzi):
             testo_completo += soup.find('p').getText()
         except:
             numero_pezzi -= 1 #vuol dire che ne analizzi uno in meno
-            print(f'Testo di {link} impossibile da trovare')
+            print(f'LYRICS OF {link} IMPOSSIBLE TO FIND')
 
-    print('DEBUG: RACCOLTA TESTI FINITA')
+    print('DEBUG: LYRYCS RETRIEVAL FINISHED')
     return testo_completo
 
 
@@ -85,14 +85,14 @@ def ricerca_ricorrenze_parolacce(testo_completo, lista_parolacce, ricorrenze_par
         if value < 1:
             del ricorrenze_parolacce[key]
 
-    print('DEBUG: RICERCA RICORRENZE FINITA')
+    print('DEBUG: SWEAR-WORD FREQUENCY SEARCH FINISHED')
 
 
 #plotto le parolacce in un grafico a caso
 def plotta(ricorrenze_parolacce, seleziona_artista):
     nomi_parolacce = list(ricorrenze_parolacce.keys())
     frequenza_parolacce = list(ricorrenze_parolacce.values())
-    plt.title(f'Frequenza uso parolacce di {seleziona_artista}')
+    plt.title(f'Swear-word use frequency of {seleziona_artista}')
     plt.legend(seleziona_artista)
     bars = plt.bar(range(len(ricorrenze_parolacce)), frequenza_parolacce, align='center')
     for bar in bars:
@@ -118,7 +118,7 @@ def main():
     domande = [
         inquirer.List('artista',
                       message="Select artist to search: ",
-                      choices=['Anna', 'Yung-lean','Fsk-satellite', 'Dark-polo-gang', 'Gallagher', 'Salmo'],
+                      choices=['Eminem','Anna', 'Yung-lean','Fsk-satellite', 'Dark-polo-gang', 'Gallagher', 'Salmo'],
                       carousel=True #ruota arrivato in fondo
                       ),
     ]
@@ -135,7 +135,7 @@ def main():
     ]
     seleziona_lingua = inquirer.prompt(domande)
     seleziona_lingua = str(seleziona_lingua)[14:-2]
-    print(seleziona_lingua)
+    print(f'Selected artist: {seleziona_lingua}')
 
     link_pezzi = prendi_link_tutte_canzoni(seleziona_artista)
     numero_pezzi = len(link_pezzi) #Per un loading dinamico
