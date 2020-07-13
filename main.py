@@ -8,6 +8,8 @@ import matplotlib.pyplot as plt
 def prendi_link_tutte_canzoni(seleziona_artista):
     xpath_lista_canzoni = '/html/body/routable-page/ng-outlet/routable-profile-page/ng-outlet/routed-page/profile-page/div[3]/div[2]/artist-songs-and-albums/div[3]'
     browser = webdriver.Firefox()
+    browser.set_window_position(x=960, y=0)
+    browser.set_window_size(960, 1080)
     browser.get(f'https://genius.com/artists/{seleziona_artista}')
     tutte_canzoni = browser.find_element_by_xpath(xpath_lista_canzoni)
     tutte_canzoni.click()
@@ -45,14 +47,16 @@ def scarica_tutti_testi(link_pezzi, numero_pezzi):
     testo_completo = ''
     counter = 0
     for link in link_pezzi:
-        counter += 1
+
         print(f'{counter}/{numero_pezzi} songs analyzed', end='\r')
         try:
+            counter += 1
             result = requests.get(link)
             src = result.content
             soup = BeautifulSoup(src, 'lxml')
             testo_completo += soup.find('p').getText()
         except:
+            counter -= 1
             numero_pezzi -= 1 #vuol dire che ne analizzi uno in meno
             print(f'LYRICS OF {link} IMPOSSIBLE TO FIND')
 
