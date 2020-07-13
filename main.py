@@ -33,10 +33,9 @@ def prendi_link_tutte_canzoni(seleziona_artista):
     link_pezzi = []
     lista_xpath = '/html/body/div[7]/div[1]'
     lista = browser.find_element_by_xpath(lista_xpath)
-    elems = lista.find_elements_by_xpath("//a[@href]")
+    elems = lista.find_elements_by_css_selector("div.profile_list_item a") #entro nel div con class name = profilo_list_item nell'elemento a
     for elem in elems:
-        if 'lyrics' in str(elem.get_attribute('href')).lower() and seleziona_artista.lower() in str(elem.get_attribute('href')).lower():
-            link_pezzi.append(elem.get_attribute("href"))
+        link_pezzi.append(elem.get_attribute("href"))
 
     print('DEBUG: LINKS COLLECTED')
     browser.close()
@@ -142,6 +141,7 @@ def main():
     print(f'Selected language: {seleziona_lingua}', end='\n\n')
 
     link_pezzi = prendi_link_tutte_canzoni(seleziona_artista)
+    link_pezzi = list(set(link_pezzi)) #rimuovo i doppioni
     numero_pezzi = len(link_pezzi) #Per un loading dinamico
 
     testo_completo = scarica_tutti_testi(link_pezzi, numero_pezzi)
