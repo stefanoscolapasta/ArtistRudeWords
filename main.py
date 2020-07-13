@@ -15,8 +15,9 @@ def prendi_link_tutte_canzoni(seleziona_artista):
     tutte_canzoni.click()
     time.sleep(1)
     lista_popup = browser.find_element_by_xpath('/html/body/div[7]')
-    time.sleep(1)
+    time.sleep(2)
     last_height = browser.execute_script('return arguments[0].scrollHeight', lista_popup)
+    time.sleep(1)
     while True:
         lista_popup.send_keys(Keys.END)
         time.sleep(2)
@@ -34,7 +35,7 @@ def prendi_link_tutte_canzoni(seleziona_artista):
     lista = browser.find_element_by_xpath(lista_xpath)
     elems = lista.find_elements_by_xpath("//a[@href]")
     for elem in elems:
-        if seleziona_artista.lower() in str(elem.get_attribute('href')).lower():
+        if 'lyrics' in str(elem.get_attribute('href')).lower() and seleziona_artista.lower() in str(elem.get_attribute('href')).lower():
             link_pezzi.append(elem.get_attribute("href"))
 
     print('DEBUG: LINKS COLLECTED')
@@ -46,9 +47,10 @@ def prendi_link_tutte_canzoni(seleziona_artista):
 def scarica_tutti_testi(link_pezzi, numero_pezzi):
     testo_completo = ''
     counter = 0
+    print('  ')
     for link in link_pezzi:
 
-        print(f'{counter}/{numero_pezzi} songs analyzed', end='\r')
+        print(f'  {counter}/{numero_pezzi} songs analyzed', end='\r')
         try:
             counter += 1
             result = requests.get(link)
@@ -120,13 +122,13 @@ def main():
     domande = [
         inquirer.List('artista',
                       message="Select artist to search: ",
-                      choices=['Eminem','Anna', 'Yung-lean','Fsk-satellite', 'Dark-polo-gang', 'Gallagher', 'Salmo'],
+                      choices=['6ix9ine','Eminem','Anna', 'Yung-lean','Fsk-satellite', 'Dark-polo-gang', 'Gallagher', 'Salmo'],
                       carousel=True #ruota arrivato in fondo
                       ),
     ]
     seleziona_artista = inquirer.prompt(domande)
     seleziona_artista = str(seleziona_artista)[13:-2] #I strip extra data
-    print(f'Selected artist: {seleziona_artista}')
+    print(f'Selected artist: {seleziona_artista}', end='\n\n')
 
     domande = [
         inquirer.List('language',
@@ -137,7 +139,7 @@ def main():
     ]
     seleziona_lingua = inquirer.prompt(domande)
     seleziona_lingua = str(seleziona_lingua)[14:-2]
-    print(f'Selected artist: {seleziona_lingua}')
+    print(f'Selected language: {seleziona_lingua}', end='\n\n')
 
     link_pezzi = prendi_link_tutte_canzoni(seleziona_artista)
     numero_pezzi = len(link_pezzi) #Per un loading dinamico
