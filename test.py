@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-import requests, time, inquirer
+import requests, time, inquirer, matplotlib
 from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt
 import numpy as np
@@ -38,6 +38,8 @@ def prendi_link_tutte_canzoni(seleziona_artista):
             link_pezzi.append(elem.get_attribute("href"))
 
     print('DEBUG: LINK RACCOLTI')
+    browser.close()
+    browser.quit()
     return link_pezzi
 
 
@@ -80,17 +82,20 @@ def ricerca_ricorrenze_parolacce(testo_completo, lista_parolacce, ricorrenze_par
 
     print('DEBUG: RICERCA RICORRENZE FINITA')
 
+
 #plotto le parolacce in un grafico a caso
 def plotta(ricorrenze_parolacce, seleziona_artista):
     nomi_parolacce = list(ricorrenze_parolacce.keys())
     frequenza_parolacce = list(ricorrenze_parolacce.values())
-    range_frequenza_parolacce = np.arange(0, max(frequenza_parolacce), 10)
-    plt.plot(nomi_parolacce, frequenza_parolacce, label=seleziona_artista, color='k', marker='.')
-    plt.xticks(rotation=45) #sennò si accavallano
-    plt.yticks(range_frequenza_parolacce)
-    plt.xlabel('Parolacce')
-    plt.ylabel('Frequenza in n. di volte')
-    plt.legend()
+    plt.title(f'Frequenza uso parolacce di {seleziona_artista}')
+    plt.legend(seleziona_artista)
+    bars = plt.bar(range(len(ricorrenze_parolacce)), frequenza_parolacce, align='center')
+    for bar in bars:
+        yval = bar.get_height()
+        plt.text(bar.get_x(), yval + .01, yval)
+
+    plt.xticks(range(len(ricorrenze_parolacce)), nomi_parolacce)
+    plt.xticks(rotation=45)
     plt.show()
 
 
@@ -109,11 +114,12 @@ def main():
         inquirer.List('artista',
                       message="Seleziona artista da ricercare: ",
                       choices=['Fsk-satellite', 'Dark-polo-gang', 'Gallagher', 'Salmo'],
+                      carousel=True #ruota arrivato in fondo
                       ),
     ]
     seleziona_artista = inquirer.prompt(domande)
-    print(seleziona_artista["artista"])
-
+    seleziona_artista = str(seleziona_artista)[13:-2]
+    print(f'Artista selezionato: {seleziona_artista}')
 
     link_pezzi = prendi_link_tutte_canzoni(seleziona_artista)
     numero_pezzi = len(link_pezzi) #Per un loading dinamico
@@ -129,6 +135,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
