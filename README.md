@@ -8,8 +8,8 @@
 * To add a new artist you need to look for the [final part of their genius.com URL](www.genius.com)
     * **Example**: Say you want to add Lil Uzi Vert to the list of artists that can be searched
     * You need to look for their [genius.com](www.genius.com) URL -> [https://genius.com/artists/Lil-uzi-vert](https://genius.com/artists/Lil-uzi-vert)
-    * Select the final '/', so only 'Lil-uzi-vert'
-    * Now add it to the list <br/>
+    * Select the final '/', in our case only **'Lil-uzi-vert'**
+    * Now **add it** to the list <br/>
     ![](assets/spiegazioneGitHub1.png)
     and so <br/>
     ![](assets/spiegazioneGitHub2.png)
@@ -38,7 +38,7 @@
 - [ ] Improve the resulting graphs
 - [ ] Try to use Requests and BeautifulSoup for link collection instead of Selenium Web-Driver to get a faster script
 - [ ] Add multiple options
-- [ ] Make in-line menu more user-friendly
+- [ ] Make the command-line menu more user-friendly
 - [ ] Divide swear-words by type <br/> 
          1. Sex-oriented bad words<br/>
          2. Race-oriented insults<br/>
