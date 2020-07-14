@@ -1,7 +1,7 @@
 # PYTHON SCRIPT to count how many bad/swear words an artist said based on his songs lyrics featured on [genius.com](www.genius.com)<br/><br/> 
 ## USAGE
 
-**Clone the repo** and launch the script in the folder by typing 'python main.py'
+**Clone the repo** and launch the script from the folder by typing 'python main.py'
 
 * You can **choose** which artist to search
 * To add a new artist you need to look for the [final part of their genius.com URL](www.genius.com)
