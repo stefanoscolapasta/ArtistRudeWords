@@ -1,4 +1,5 @@
 # PYTHON SCRIPT TO COUNT HOW MANY BAD WORDS AN ARTIST SAID 
+## based on all his song lyrics
 
 **Clone the repo** and launch the script in the folder by typing 'python main.py'
 
