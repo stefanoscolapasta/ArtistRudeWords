@@ -1,5 +1,6 @@
-# PYTHON SCRIPT to count how many bad/swear words an artist said based on his songs lyrics featured on [genius.com](www.genius.com)<br/><br/> 
-## USAGE
+# ArtistRudeWords <br/><br/> 
+## PYTHON SCRIPT to count how many bad/swear words an artist said based on his songs lyrics featured on [genius.com](www.genius.com)<br/><br/> 
+### USAGE
 
 **Clone the repo** and launch the script from the folder by typing 'python main.py'
 
