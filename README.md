@@ -30,4 +30,4 @@
   
 * The final result will be a bar graph showing the use of swear/bad words during his career  <br/>
 > As seen I have to fix the xticks spacing when the words are too many
-  ![](assets/graph.png)
+ ![](assets/graph.png)
