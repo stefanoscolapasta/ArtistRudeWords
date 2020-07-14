@@ -37,7 +37,7 @@
 - [ ] Try to use Requests and BeautifulSoup for link collection instead of Selenium Web-Driver to get a faster script
 - [ ] Add multiple options
 - [ ] Make in-line menu more user-friendly
-- [ ] Divide swear-words by type <br/ > 
+- [ ] Divide swear-words by type <br/> 
          1. Sex-oriented bad words
          2. Race-oriented insults
          3. General insults
