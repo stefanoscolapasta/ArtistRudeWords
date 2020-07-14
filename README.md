@@ -9,29 +9,29 @@
     * **Example**: Say you want to add Lil Uzi Vert to the list of artists that can be searched
     * You need to look for their [genius.com](www.genius.com) URL -> [https://genius.com/artists/Lil-uzi-vert](https://genius.com/artists/Lil-uzi-vert)
     * Select the final '/', so only 'Lil-uzi-vert'
-    * Now add it to the list 
+    * Now add it to the list <br/>
     ![](assets/spiegazioneGitHub1.png)
-    and so
+    and so <br/>
     ![](assets/spiegazioneGitHub2.png)
     * You're done!
 <br/><br/> 
-* Now select the artist from the menu
+* Now select the artist from the menu<br/>
   ![](assets/menu.png)
 
-* And finally choose the artist's main language
+* And finally choose the artist's main language<br/>
   ![](assets/menuLanguage.png)
   
-* It will automatically open the artist's Genius webpage and scroll through all the songs featured on the website
+* It will automatically open the artist's Genius webpage and scroll through all the songs featured on the website<br/>
   ![](assets/scrolling.png)
 
-* Once finished collecting all links to the songs it will close the webpage and start downloading all the lyrics
+* Once finished collecting all links to the songs it will close the webpage and start downloading all the lyrics<br/>
   ![](assets/analyze.png)
   
-* If a link is corrupted the script will let you know it did not retrieve the lyrics of that song
+* If a link is corrupted the script will let you know it did not retrieve the lyrics of that song<br/>
   ![](assets/lyrics_fail.png)
   
 * The final result will be a bar graph showing the use of swear/bad words during his career  <br/>
-   > As seen, I have to fix the xticks spacing when the words are too many
+   > As seen, I have to fix the xticks spacing when the words are too many<br/>
 ![](assets/graph.png)
 
 # TODO
