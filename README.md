@@ -14,8 +14,8 @@
     and so
     ![](assets/spiegazioneGitHub2.png)
     * You're done!
-
-* Select the artist from the menu
+<br/><br/> 
+* Now select the artist from the menu
   ![](assets/menu.png)
 
 * And finally choose the artist's main language
