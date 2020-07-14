@@ -33,7 +33,7 @@
    > As seen, I have to fix the xticks spacing when the words are too many
 ![](assets/graph.png)
 
-# To do
+# TODO
 - [ ] Improve the resulting graphs
 - [ ] Try to use Requests and BeautifulSoup for link collection instead of Selenium Web-Driver to get a faster script
 - [ ] Add multiple options
