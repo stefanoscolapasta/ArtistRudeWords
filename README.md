@@ -31,3 +31,15 @@
 * The final result will be a bar graph showing the use of swear/bad words during his career  <br/>
    > As seen, I have to fix the xticks spacing when the words are too many
 ![](assets/graph.png)
+
+##To do
+- [ ] Improve the resulting graphs
+- [ ] Try to use Requests and BeautifulSoup for link collection instead of Selenium Web-Driver to get a faster script
+- [ ] Add multiple options
+- [ ] Make in-line menu more user-friendly
+- [ ] Divide swear-words in types 
+         1. Sex-oriented bad words
+         2. Race-oriented insults
+         3. General insults
+         4. Etc.
+- [ ] Add multiple languages
