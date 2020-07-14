@@ -38,8 +38,8 @@
 - [ ] Add multiple options
 - [ ] Make in-line menu more user-friendly
 - [ ] Divide swear-words by type <br/> 
-         1. Sex-oriented bad words
-         2. Race-oriented insults
-         3. General insults
-         4. Etc.
+         1. Sex-oriented bad words<br/>
+         2. Race-oriented insults<br/>
+         3. General insults<br/>
+         4. Etc.<br/>
 - [ ] Add multiple languages
