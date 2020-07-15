@@ -1,5 +1,7 @@
-# ArtistRudeWords <br/><br/> 
-## PYTHON SCRIPT to count how many bad/swear words an artist said based on his songs lyrics featured on [genius.com](www.genius.com)<br/><br/> 
+# ArtistRudeWords <br/>
+## ABOUT
+**PYTHON SCRIPT** to count how many bad/swear words an artist said based on his songs lyrics featured on [genius.com](www.genius.com)<br/><br/> 
+
 ### USAGE
 
 **Clone the repo** and launch the script from the folder by typing 'python main.py'
@@ -34,7 +36,7 @@
    > As seen, I have to fix the xticks spacing when the words are too many<br/>
 ![](assets/graph.png)
 
-# TODO
+## <br/>TODO
 - [ ] Improve the resulting graphs
 - [ ] Try to use Requests and BeautifulSoup for link collection instead of Selenium Web-Driver to get a faster script
 - [ ] Add multiple options
@@ -45,3 +47,14 @@
          3. General insults<br/>
          4. Etc.<br/>
 - [ ] Add multiple languages
+
+## Author
+
+* [Stefano Scolari](https://www.linkedin.com/in/stefano-scolari-7a9440170/)
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2020 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
