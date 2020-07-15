@@ -4,7 +4,7 @@
 
 ### USAGE
 
-**Clone the repo** and launch the script from the folder by typing 'python main.py'
+**Clone the repo** and launch the script from the folder by typing <br/>`python main.py` in command-line
 
 * You can **choose** which artist to search
 * To add a new artist you need to look for the [final part of their genius.com URL](www.genius.com)
