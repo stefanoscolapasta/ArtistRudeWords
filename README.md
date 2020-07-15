@@ -32,6 +32,8 @@
 * If a link is corrupted the script will let you know it did not retrieve the lyrics of that song<br/>
   ![](assets/lyrics_fail.png)
   
+  -------------------------------------------------
+  
 * The final result will be a bar graph showing the use of swear/bad words during his career  <br/>
    > As seen, I have to fix the xticks spacing when the words are too many<br/>
 ![](assets/graph.png)
